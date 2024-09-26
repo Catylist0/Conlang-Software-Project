@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace CSP;
+namespace Langscaper;
 
 sealed class Program
 {

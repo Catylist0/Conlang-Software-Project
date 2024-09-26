@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace CSP.Views;
+namespace Langscaper.Views;
 
 public partial class MainWindow : Window
 {

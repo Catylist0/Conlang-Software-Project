@@ -3,10 +3,10 @@ using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Data.Core;
 using Avalonia.Data.Core.Plugins;
 using Avalonia.Markup.Xaml;
-using CSP.ViewModels;
-using CSP.Views;
+using Langscaper.ViewModels;
+using Langscaper.Views;
 
-namespace CSP;
+namespace Langscaper;
 
 public partial class App : Application
 {
