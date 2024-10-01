@@ -1,6 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace CSP.ViewModels;
+namespace Langscaper.ViewModels;
 
 public class ViewModelBase : ObservableObject
 {

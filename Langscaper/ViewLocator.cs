@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using CSP.ViewModels;
+using Langscaper.ViewModels;
 
-namespace CSP;
+namespace Langscaper;
 
 public class ViewLocator : IDataTemplate
 {

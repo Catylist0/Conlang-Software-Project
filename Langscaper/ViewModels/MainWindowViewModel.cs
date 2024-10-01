@@ -1,4 +1,4 @@
-﻿namespace CSP.ViewModels;
+﻿namespace Langscaper.ViewModels;
 
 public partial class MainWindowViewModel : ViewModelBase
 {
